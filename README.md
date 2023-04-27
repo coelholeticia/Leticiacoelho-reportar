@@ -7,6 +7,8 @@
  
 - [x] Foram criadas folhas de estilo seradamente, para melhor organização do código. 
 
+- [x] Rodar aplicativo na web npm run web 
+
 #### Dificuldades:
 
 - Estilização do checkbox.
