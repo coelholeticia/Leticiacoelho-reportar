@@ -16,6 +16,11 @@
 - Obs: Minhas dificulades se encontraram por conta de ser a primeira vez que faço um projeto em react-native, porém tenho força de vontade em aprender
 e sempre dou o meu melhor. 😊💪
 
+Nota: 
+
+![Captura de tela 2023-04-27 165134](https://user-images.githubusercontent.com/90153628/234985044-20379977-a748-4d0a-9b77-28f10fd8b609.png)
+
+Tela app:
 
 ![Captura de tela 2023-04-27 173050](https://user-images.githubusercontent.com/90153628/234984115-58a4f84b-acae-42b5-b731-e8257dd2bca3.png)
 
